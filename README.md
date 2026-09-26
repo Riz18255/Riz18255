@@ -1,235 +1,203 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,45:0F172A,75:0EA5E9,100:7DD3FC&height=255&section=header&text=Riaz%20Ahmed%20Ansari&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=Cybersecurity%20%7C%20Red%20Team%20%2B%20Blue%20Team%20%7C%20Detection%20Engineering%20%7C%20ICS%2FOT&descSize=17&descAlignY=61&animation=twinkling" alt="Riaz Ahmed Ansari"/>
+<img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=3000&pause=650&color=7DD3FC&center=true&vCenter=true&width=1100&height=105&lines=Hi+👋+I'm+Riaz+Ahmed+Ansari;Cybersecurity+%7C+Red+Team+%2B+Blue+Team;Detection+Engineering+%7C+ICS%2FOT+%7C+DevSecOps;Building+Security+Systems+That+Can+Be+Tested%2C+Observed+%26+Defended" alt="Typing SVG"/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2700&pause=700&color=7DD3FC&center=true&vCenter=true&repeat=true&width=1200&height=75&lines=Offense-Informed+Defense+%7C+Security+Engineering+%7C+Threat+Detection;Active+Directory+%7C+Penetration+Testing+%7C+Threat+Hunting;Splunk+%7C+Suricata+%7C+Zeek+%7C+Sysmon+%7C+MITRE+ATT%26CK;ICS%2FOT+Security+%7C+Purdue+Model+%7C+SCADA+%7C+Modbus+TCP;DevSecOps+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD+Security;Building+SIEMTRIX+%E2%80%94+SIEM%2C+ML+Detection+%26+Automated+Response" alt="Animated introduction"/>
+</div>
 
-<p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width:100%;display:inline-block;" alt="Coding animation"/>
+</div>
+
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-ansari-727014168/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:ansariahmed408@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Cybersecurity%20Roles-7DD3FC?style=for-the-badge&labelColor=0B1220&color=7DD3FC" alt="Open to Cybersecurity Roles"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Cybersecurity%20Roles-0F172A?style=for-the-badge&logo=hackthebox&logoColor=7DD3FC" alt="Open to work"/>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Riz18255&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Riz18255?label=Followers&style=flat-square&color=0EA5E9&labelColor=0B1220" alt="Followers"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Riz18255&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Riz18255?label=Followers&style=flat-square&color=0e75b6&labelColor=0F172A" alt="Followers"/>
 </p>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
 
-🛡️ About Me
-I’m Riaz Ahmed Ansari, a cybersecurity graduate from Islamabad with hands-on experience across red teaming, blue teaming, detection engineering, SIEM, Active Directory security, incident response, DevSecOps, and ICS/OT security.
-I focus on building and securing real environments — not just isolated demos. My work spans attack simulation, telemetry engineering, SIEM correlation, threat detection, infrastructure security, and ML-assisted anomaly detection across enterprise, cloud, containerized, and industrial systems.
-Current focus: building SIEMTRIX, a Purdue Model-aligned ICS security platform centered around Splunk, multi-zone logging, behavioral detection, and automated response.
+About Me
 
-⚡ Impact at a Glance
-<div align="center">
+<p align="center">
+I'm <strong>Riaz Ahmed Ansari</strong>, a cybersecurity graduate focused on <strong>offense-informed defense</strong> — understanding how systems are attacked, then engineering the visibility, controls, and detections needed to defend them.
+</p>
 
-<table>
-<tr>
-<td align="center"><b>500</b><br/>Concurrent ICS Commands Tested</td>
-<td align="center"><b>100%</b><br/>Command Delivery Achieved</td>
-<td align="center"><b>0</b><br/>Message Loss in Validation</td>
-<td align="center"><b>&lt;148 ms</b><br/>Average Latency vs 200 ms SLA</td>
-</tr>
-<tr>
-<td align="center"><b>30%</b><br/>Deployment Time Reduction</td>
-<td align="center"><b>15+</b><br/>CI/CD Vulnerabilities Remediated</td>
-<td align="center"><b>3</b><br/>Unauthorized Access Attempts Investigated</td>
-<td align="center"><b>IT → DMZ → OT</b><br/>Segmented ICS Architecture</td>
-</tr>
-</table>
 
-</div>
+What I Work On
+- Red teaming, penetration testing, Active Directory security, and attack-path analysis
+- SIEM engineering, threat hunting, network security monitoring, and incident investigation
+- ICS/OT security across Purdue-model environments, SCADA, and Modbus TCP
+- DevSecOps and infrastructure security across Docker, Kubernetes, Linux, NGINX, and CI/CD
+- Applied machine learning for anomaly detection and network-threat detection
 
-🚀 Featured Security Projects
-🔹 SIEMTRIX — ICS Security Monitoring, Detection & Automated Response
-Team Final Year Project · 2025–2026
-A modular ICS security platform built around a Purdue Model-aligned IT, DMZ, OT, and OT Sensor architecture, integrating centralized SIEM monitoring, secure command governance, behavioral anomaly detection, attack simulation, and automated response.
-My contributions
-- Built and integrated the IT Zone frontend and backend components
-- Implemented the Splunk monitoring layer for centralized multi-zone visibility
-- Worked with dedicated Splunk indexes for IT, DMZ, OT, IDS, and ML alert telemetry
-- Developed cross-zone correlation searches and Splunk dashboards
-- Built dashboard views for command lifecycle tracking, latency, SLA compliance, log volume, ML alerts, and incident-response status
-- Developed the Isolation Forest anomaly-detection component
-- Worked on shadow-mode deployment and threshold calibration
-- Integrated ML alert visibility into Splunk for analyst investigation
-- Contributed to dataset labeling/preprocessing, MITRE ATT&CK for ICS mapping, attack scripting, and end-to-end integration testing
-Key validation results
-500 concurrent commands · 100% delivery · 0 message loss · <148 ms average latency
-Core stack
-Splunk Enterprise Splunk HEC Universal Forwarder Isolation Forest Python Suricata Zeek MITRE ATT&CK for ICS SCADA Modbus TCP
-🔹 Real-Time ML-Based DDoS Detection System
-Built a live network threat-detection pipeline targeting SYN flood and HTTP flood attacks.
-What I engineered
-- Live traffic capture and feature extraction
-- Continuous malicious-traffic classification
-- Real-time security alerting
-- ML experimentation using XGBoost and Isolation Forest
-- Practical network intrusion detection using live traffic rather than offline-only datasets
+Current Focus: sharpening detection engineering, Active Directory security, and ICS/OT monitoring while continuing to build practical security labs and tooling.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
+
+Selected Work
+SIEMTRIX — ICS Security Monitoring, Detection & Automated Response
+Team Final Year Project · 2025–2026 · View Repository
+A Purdue Model-aligned ICS security platform spanning IT, DMZ, OT, and OT Sensor zones, designed around centralized monitoring, command governance, behavioral detection, and response.
+My work included:
+- IT Zone frontend and backend implementation
+- Splunk multi-zone logging, correlation searches, dashboards, and analyst visibility
+- Isolation Forest anomaly-detection component and shadow-mode deployment
+- MITRE ATT&CK for ICS mapping, dataset preprocessing, attack scripting, and integration testing
+Validation: 500 concurrent commands · 100% delivery · 0 message loss · <148 ms average latency
+Splunk Python Isolation Forest Suricata Zeek MITRE ATT&CK SCADA Modbus TCP
+Real-Time ML-Based DDoS Detection System
+Built a real-time network threat-detection pipeline for SYN flood and HTTP flood attacks using live traffic capture, feature engineering, and machine-learning classification.
 Python XGBoost Isolation Forest Traffic Analysis Network Security
-🔹 Active Directory Attack & Detection Lab
-Built an isolated AD environment to study both adversary behavior and defensive telemetry.
-Attack side
-- Reconnaissance
-- Credential access
-- Privilege escalation
-- Lateral movement
-- BloodHound-based attack-path analysis
-Detection side
-- Windows and Sysmon telemetry
-- Splunk investigation workflows
-- MITRE ATT&CK-mapped detections
-- Correlation of attacker activity with host and network evidence
+Active Directory Attack & Detection Lab
+Built an isolated AD environment to emulate reconnaissance, credential access, privilege escalation, and lateral movement, then correlated Windows/Sysmon telemetry in Splunk to develop MITRE ATT&CK-mapped detections.
 Active Directory BloodHound Sysmon Splunk MITRE ATT&CK
-💼 Experience
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
+
+Experience
 DevSecOps Intern — Sysreforms International
 Aug 2024 – Sep 2024 · Islamabad
 - Deployed and configured Kubernetes and MySQL clusters for containerized applications
 - Reduced deployment time by 30%
 - Integrated Trivy and SonarQube into CI/CD pipelines
 - Remediated 15+ vulnerabilities
-- Secured and troubleshot environments across Docker, Linux, NGINX, SSH, and CI/CD
+- Secured and troubleshot Docker, Linux, NGINX, SSH, and CI/CD environments
 Network Security Intern — HTR Technologies
 Jun 2024 – Jul 2024 · Islamabad
-- Performed reconnaissance, traffic analysis, and controlled security assessments using Nmap, Wireshark, and Metasploit
-- Investigated 3 unauthorized access attempts using packet analysis and suspicious communication patterns
+- Performed network reconnaissance, traffic analysis, and security assessments using Nmap, Wireshark, and Metasploit
+- Investigated 3 unauthorized access attempts using packet analysis and attack-path analysis
 - Conducted vulnerability assessment and penetration-testing activities
 - Designed segmented networks using VLANs, ACLs, routing, DHCP, and NAT
-🧰 Security Arsenal
-<details open>
-<summary><b>⚔️ Red Teaming & Offensive Security</b></summary>
-<br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
+
+Technical Skills
+Core Security
 <p align="center">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0B1220?style=for-the-badge&logo=microsoft&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/BloodHound-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-0B1220?style=for-the-badge&logo=burpsuite&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/Nmap-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Privilege%20Escalation-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web%20App%20Security-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Red%20Teaming-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Detection%20Engineering-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Threat%20Hunting-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Incident%20Response-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ICS%2FOT%20Security-111827?style=for-the-badge" />
 </p>
 
+Security Ecosystem
+<details open>
+<summary><b>⚔️ Offensive Security</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Active%20Directory-0F172A?style=for-the-badge&logo=microsoft&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/BloodHound-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-0F172A?style=for-the-badge&logo=burpsuite&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge" />
+</p>
 </details>
 
 <details open>
-<summary><b>🛡️ Blue Teaming & Detection Engineering</b></summary>
-<br/>
-
+<summary><b>🛡️ Blue Team & Detection</b></summary>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Detection%20Engineering-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Threat%20Hunting-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Incident%20Response-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Splunk-0B1220?style=for-the-badge&logo=splunk&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/Suricata-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zeek-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-0B1220?style=for-the-badge&logo=wireshark&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/Sysmon-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Splunk-0F172A?style=for-the-badge&logo=splunk&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/Suricata-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zeek-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/Sysmon-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0F172A?style=for-the-badge" />
 </p>
-
 </details>
 
 <details open>
-<summary><b>🏭 ICS / OT Security</b></summary>
-<br/>
-
+<summary><b>🏭 ICS / OT</b></summary>
+<br>
 <p align="center">
-  <img src="https://img.shields.io/badge/ICS%20Security-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OT%20Network%20Security-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Purdue%20Model-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SCADA-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Modbus%20TCP-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ScadaBR-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenModSim-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Industrial%20Monitoring-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Purdue%20Model-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SCADA-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modbus%20TCP-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ScadaBR-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenModSim-0F172A?style=for-the-badge" />
 </p>
-
 </details>
 
 <details open>
-<summary><b>☁️ DevSecOps, Cloud & Infrastructure</b></summary>
-<br/>
-
+<summary><b>☁️ DevSecOps & Infrastructure</b></summary>
+<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,azure,git,github&theme=dark" alt="DevSecOps technologies"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,azure,git,github&theme=dark"/>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/CI%2FCD%20Security-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trivy-0B1220?style=for-the-badge&logo=aqua&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/SonarQube-0B1220?style=for-the-badge&logo=sonarqube&logoColor=7DD3FC" />
-  <img src="https://img.shields.io/badge/SSH-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Trivy-0F172A?style=for-the-badge&logo=aqua&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/SonarQube-0F172A?style=for-the-badge&logo=sonarqube&logoColor=7DD3FC" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Security-0F172A?style=for-the-badge" />
 </p>
-
 </details>
 
 <details open>
-<summary><b>💻 Programming & Machine Learning</b></summary>
-<br/>
-
+<summary><b>💻 Programming & ML</b></summary>
+<br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,bash,powershell,cpp,mysql&theme=dark" alt="Programming technologies"/>
+  <img src="https://skillicons.dev/icons?i=py,bash,powershell,cpp,mysql&theme=dark"/>
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/XGBoost-0B1220?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Isolation%20Forest-0B1220?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Isolation%20Forest-0F172A?style=for-the-badge" />
 </p>
-
 </details>
 
-🎓 Education & Certifications
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
+
+Education & Certifications
 B.S. Cyber Security — Air University, Islamabad
 2022 – 2026
-<details>
-<summary><b>View certifications</b></summary>
-<br/>
+<details open>
+<summary><b>Certifications</b></summary>
+<br>
 
 - Multi-Cloud Red Team Analyst (MCRTA) — CyberWarFare Labs
 - Certified Red Team Analyst (CRTA) — CyberWarFare Labs
 </details>
 
-📊 GitHub Analytics
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
+
+Analytics
 <div align="center">
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riz18255&theme=nord_dark" alt="GitHub profile details"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riz18255&theme=nord_dark" alt="GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riz18255&theme=nord_dark" alt="Languages by repository"/>
 
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riz18255&theme=nord_dark" alt="GitHub stats"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riz18255&theme=nord_dark" alt="Languages by repository"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Riz18255&theme=nord&hide_border=true&background=0A0A0A&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub streak"/>
 
 
-
-
-<img width="72%" src="https://streak-stats.demolab.com?user=Riz18255&theme=nord&border=7DD3FC&ring=7DD3FC&fire=0EA5E9&currStreakLabel=7DD3FC&background=0B1220&hide_border=false" alt="GitHub streak"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riz18255&theme=github-dark&hide_border=true&bg_color=0A0A0A&color=7DD3FC&line=7DD3FC&point=FFFFFF&area=true" alt="Contribution graph"/>
 
 </div>
 
-🤝 Let’s Connect
-<div align="center">
 
-I’m interested in opportunities across Red Teaming, Blue Teaming, Detection Engineering, Security Engineering, ICS/OT Security, and DevSecOps.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&text=&fontSize=0" width="100%" />
 
-<a href="https://www.linkedin.com/in/ahmed-ansari-727014168/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn"/>
-</a>
-<a href="mailto:ansariahmed408@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email"/>
-</a>
+Let's Connect
+<p align="center">
+  Interested in opportunities across <strong>Red Teaming, Blue Teaming, Detection Engineering, Security Engineering, ICS/OT Security, and DevSecOps</strong>.
+</p>
 
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:08111F,45:0F172A,75:0EA5E9,100:7DD3FC&height=135&section=footer" alt="footer"/>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-ansari-727014168/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ansariahmed408@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
